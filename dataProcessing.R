@@ -12,6 +12,7 @@
 # in our app, and our app code will be more concise. 
 
 library(tidyverse)
+# install.packages('forcats')
 library(forcats)
 
 # forcats is a great package for working with factors, and it has a super cute hex.
